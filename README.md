@@ -1,4 +1,4 @@
-# **Stock Price Prediction**
+# **Stock Price Prediction using LSTM**
 
 ## Overview
 This project aims to predict stock prices using machine learning techniques. It utilizes historical stock market data to train predictive models that forecast future price movements.
